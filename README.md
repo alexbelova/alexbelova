@@ -6,4 +6,4 @@
 
 🌱 I’m currently learning HTML, CSS, JavaScript, PHP.
 
-📫 How to reach me alexandra.belova@internet.ru
+📫 How to reach me telegram: https://t.me/Alexandra_Belova69

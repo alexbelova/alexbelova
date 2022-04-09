@@ -4,6 +4,6 @@
 
 👀 I’m interested in web design, web programming, web curling.
 
-🌱 I’m currently learning programming on HTML, CSS, JavaScript.
+🌱 I’m currently learning programming on HTML, CSS, JavaScript, PHP.
 
 📫 How to reach me alexandra.belova@internet.ru

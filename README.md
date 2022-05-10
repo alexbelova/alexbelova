@@ -6,4 +6,5 @@
 
 🌱 I studied the creation of directories, registers, documents, desktop and command interface of a mobile application on 1C; I also studied the creation of subsystems, directories, enumerations, documents, registers, applications for 1C, query language in the 1C system: Enterprise, development of reports using a data layout system.
 
-📫 How to reach me telegram: https://t.me/Alexandra_Belova19
+📫 How to reach me
+telegram: https://t.me/Alexandra_Belova19

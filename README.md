@@ -4,7 +4,7 @@
 
 👀 I’m interested in database development, web development and programming on 1C.
 
-🌱 I have studied such tools as Microsoft SQL Server, HTML, CSS, JavaScript, PHP, 1C:Enterprise.
+🌱 I have studied such tools as HTML, CSS, JavaScript, PHP, MySQL, 1C:Enterprise.
 
 📫 How to reach me</br>
 telegram: https://t.me/Alexandra_Belova19
